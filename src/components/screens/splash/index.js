@@ -1,5 +1,5 @@
 import React from 'react';
-import {Text} from 'react-native';
+import {Text, Image} from 'react-native';
 
 export default _ =>{
     return(
